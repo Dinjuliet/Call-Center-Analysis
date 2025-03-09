@@ -14,14 +14,15 @@ The dataset used in this project was provided by *Forage (PwC Switzerland)* as p
 - **Topic:** Category of the call (e.g., Technical Support, Payment Related).
 - **Answered (1/0):** Whether the call was answered (1) or abandoned (0).
 - **AvgTalkDuration:** Average duration of the call in seconds.
-- **Satisfaction Rating:** Customer satisfaction rating (1-5). You can access the dataset here: [Call Center Dataset]![Screenshot 2025-03-09 213207](https://github.com/user-attachments/assets/f73f5dba-8db7-4bc1-9d44-a2bc512c7079)
+- **Satisfaction Rating:** Customer satisfaction rating (1-5). You can access the dataset here: [Call Center Dataset]
 
 ## Tools Used
 - *Power BI:* For data visualization and dashboard creation.
 - *DAX:* For creating calculated columns and measures.
 - *Excel/CSV:* For data preparation.
 ## DASHBOARD
-[call Center Report Dashboard]![Screenshot 2025-03-08 160027](https://github.com/user-attachments/assets/1924b2dc-9ede-49b5-bebf-60feacb1ce98)
+[call Center Report Dashboard]![Screenshot 2025-03-09 213207](https://github.com/user-attachments/assets/4aa4afca-a884-4cd0-b854-eb99aa4c5054)
+
 ## Connect with Me
 Feel free to reach out if you have any questions or feedback!  
 - LinkedIn: [Juliet Obianuju Dingwoke](https://www.linkedin.com/in/juliet-obianuju-dingwoke?
