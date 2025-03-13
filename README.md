@@ -21,7 +21,8 @@ The dataset used in this project was provided by *Forage (PwC Switzerland)* as p
 - *DAX:* For creating calculated columns and measures.
 - *Excel/CSV:* For data preparation.
 ## DASHBOARD
-[call Center Report Dashboard]![Screenshot 2025-03-09 213207](https://github.com/user-attachments/assets/4aa4afca-a884-4cd0-b854-eb99aa4c5054)
+[call Center Report Dashboard]![Screenshot 2025-03-13 123612](https://github.com/user-attachments/assets/5d598863-14e9-451b-b559-de6ff71c4734)
+
 
 ## Connect with Me
 Feel free to reach out if you have any questions or feedback!  
