@@ -7,7 +7,7 @@ This Power BI dashboard provides actionable insights into call center performanc
 - *Dynamic Slicers:* Filter data by agent, topic, and date range for deeper analysis.
 ## DATA SOURCE
 The dataset used in this project was provided by *Forage (PwC Switzerland)* as part of their virtual internship program. It includes the following columns:
-- **Call Id:** Unique identifier for each call.
+- **Call ID:** Unique identifier for each call.
 - **Agent:** Name of the agent handling the call.
 - **Date:** Date of the call.
 - **Time:** Time of the call.
@@ -25,6 +25,6 @@ The dataset used in this project was provided by *Forage (PwC Switzerland)* as p
 
 
 ## Connect with Me
-Feel free to reach out if you have any questions or feedback!  
+Let me know your thoughts! Feedback and suggestions are welcome.
 - LinkedIn: [Juliet Obianuju Dingwoke](https://www.linkedin.com/in/juliet-obianuju-dingwoke?
 - Email: dinjulieto@gmail.com
