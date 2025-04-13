@@ -1,10 +1,13 @@
 # Call-Center-Analysis
+
 ## OVERVIEW
 This Power BI dashboard provides actionable insights into call center performance. It analyzes key metrics such as call volumes, agent performance, and customer satisfaction to help optimize operations and improve customer experience. The dashboard is designed for call center managers and analysts to monitor performance in real-time and make data-driven decisions.
-## Features
+
+## OBJECTIVES
 - *Real-time KPIs:* Monitor overall customer satisfaction, calls answered vs. abandoned, and average handle time.
 - *Interactive Visualizations:* Explore trends in call topics, peak call times, and agent efficiency.
 - *Dynamic Slicers:* Filter data by agent, topic, and date range for deeper analysis.
+
 ## DATA SOURCE
 The dataset used in this project was provided by *Forage (PwC Switzerland)* as part of their virtual internship program. It includes the following columns:
 - **Call ID:** Unique identifier for each call.
@@ -29,5 +32,5 @@ The dataset used in this project was provided by *Forage (PwC Switzerland)* as p
 
 ## Connect with Me
 Let me know your thoughts! Feedback and suggestions are welcome.
-- LinkedIn:(https://www.linkedin.com/in/juliet-obianuju-dingwoke/)
+- LinkedIn:https://www.linkedin.com/in/juliet-obianuju-dingwoke/
 - Email: dinjulieto@gmail.com
