@@ -20,11 +20,14 @@ The dataset used in this project was provided by *Forage (PwC Switzerland)* as p
 - *Power BI:* For data visualization and dashboard creation.
 - *DAX:* For creating calculated columns and measures.
 - *Excel/CSV:* For data preparation.
+
 ## DASHBOARD
 [call Center Report Dashboard]![Screenshot 2025-03-13 123612](https://github.com/user-attachments/assets/5d598863-14e9-451b-b559-de6ff71c4734)
 
+# OTHERS
+[LinkedIn Post](https://www.linkedin.com/posts/juliet-obianuju-dingwoke_powerbi-dataanalytics-visualization-activity-7306617774397652992-iZsK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2sYEB_u54k7kCyt5xLX2OS6Iqo3GlcSg)
 
 ## Connect with Me
 Let me know your thoughts! Feedback and suggestions are welcome.
-- LinkedIn: [Juliet Obianuju Dingwoke](https://www.linkedin.com/in/juliet-obianuju-dingwoke?
+- LinkedIn:(https://www.linkedin.com/in/juliet-obianuju-dingwoke/)
 - Email: dinjulieto@gmail.com
